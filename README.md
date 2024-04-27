@@ -10,7 +10,7 @@ Clone the repository or download the ssh.py script.
 
 Make sure you have Python installed on your system.
 
-Edit the bruteforce_ssh.py file and specify the target host IP address or hostname, as well as the username and path to the file containing the list of passwords (baba.txt in this case).
+Edit the ssh.py file and specify the target host IP address or hostname, as well as the username and path to the file containing the list of passwords (baba.txt in this case).
 Run the script using Python:
 
 python ssh.py
